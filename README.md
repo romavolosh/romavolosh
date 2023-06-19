@@ -17,3 +17,4 @@
 ### Contact me:
 [![VSCode](https://img.shields.io/badge/-Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=ea4335)](https://t.me/RomaVolosh)
 [![VSCode](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=25a2e0)](romavolosh@gmail.com)
+[![VSCode](https://img.shields.io/badge/-Instagram-1f1f1f?style=for-the-badge&logo=instagram&logoColor=b100be)](https://www.instagram.com/r.vlsh/)
