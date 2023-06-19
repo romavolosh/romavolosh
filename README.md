@@ -13,3 +13,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-1f1f1f?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff)
 ![Figma](https://img.shields.io/badge/-Figma-1f1f1f?style=for-the-badge&logo=figma&logoColor=f24e1e)
 ![VSCode](https://img.shields.io/badge/-VSCode-1f1f1f?style=for-the-badge&logo=visualstudio&logoColor=0085d1)
+
+### Contact me:
+[![VSCode](https://img.shields.io/badge/-Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=ea4335)](https://t.me/RomaVolosh)
+[![VSCode](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram&logoColor=25a2e0)](romavolosh@gmail.com)
