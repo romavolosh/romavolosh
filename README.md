@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-C++-1f1f1f?style=for-the-badge&logo=c++&logoColor=orange)
+![HTML](https://img.shields.io/badge/-C++-1f1f1f?style=for-the-badge&logo=cpp&logoColor=orange)
 
 
 ### Contact me:
