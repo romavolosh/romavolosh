@@ -4,7 +4,8 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/-C++-1f1f1f?style=for-the-badge&logo=cpp&logoColor=orange" alt="C++">
+<img src="https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=cpp&logoColor=white" alt="C++">
+
 
 
 
