@@ -1,11 +1,9 @@
-[![Header](https://github.com/romavolosh/romavolosh/blob/main/assets/download.gif)](https://github.com/romavolosh)
-
-## Hi, I am beginner С++ developer
+## Hi, I am beginner Web developer
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=cpp&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/-SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/-C++-007ACC?style=for-the-badge&logo=html&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-SQL-007ACC?style=for-the-badge&logo=CSSl&logoColor=white" alt="CSS">
 
 
 
